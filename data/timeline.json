@@ -1,5 +1,26 @@
 {
   "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "96b66d31227b",
+    "children" : [ {
+      "name" : "1-MainThread",
+      "children" : [ {
+        "name" : "Change profile name",
+        "uid" : "4c3e2e8185d3546d",
+        "parentUid" : "b5febb66f89901cd37ebe5573a5e4b31",
+        "status" : "broken",
+        "time" : {
+          "start" : 1700002984050,
+          "stop" : 1700002998508,
+          "duration" : 14458
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "b5febb66f89901cd37ebe5573a5e4b31"
+    } ],
+    "uid" : "d4a13f4fbc9e5ac0769299a040d2e540"
+  } ],
   "name" : "timeline"
 }
