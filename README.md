@@ -7,7 +7,7 @@
 
 
 
-**WebTesting Project** - This module focuses on testing the interface components of [web application](https://opensource-demo.orangehrmlive.com/web/index.php) using Pytest, Selenium, and Allure, Docker and Github Actions
+**WebTesting Project** - This module focuses on testing the interface components of [web application](https://opensource-demo.orangehrmlive.com/web/index.php) using Pytest, Selenium, Allure, Docker and Github Actions
 
 ## Download and setup
 
