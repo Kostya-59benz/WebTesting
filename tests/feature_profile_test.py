@@ -9,9 +9,10 @@ class TestProfileFeature(BaseTest):
     
     @allure.title("Change profile name")
     @allure.severity("Critical")
-    @pytest.mark.smoke
+    @pytest.mark.smoke      
     def test_change_profile_name(self):
         self.login_page.open()
+        print(self.data.LOGIN,self.data.PASSWORD)
         self.login_page.enter_login(self.data.LOGIN)
         self.login_page.enter_password(self.data.PASSWORD)
         self.login_page.click_submit_button()
