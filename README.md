@@ -51,17 +51,19 @@ python -m venv venv
 
 ## Result
 
-1. Auto login
+1. Auto login (Enter data),
 
-2. Open login page
+2. Click - 'Submit button',
 
-3. Click 'My Info' - link
+3. Click - 'My Info link',
 
-4. Change name
-
-5. Creating report with Allure
+4. Change name,
    
-6. Use github actions
+5. Save change,
+
+6. Make a screenshot,
+   
+7. Use github actions.
    
 
 # Allure report
